@@ -1,5 +1,6 @@
 # hello-world
 ## Ayomide Isinkaye
+---
 This repository is to understand how to work with git-hub
 I am also using this to practice markdown syntax
 
